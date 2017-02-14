@@ -1,3 +1,5 @@
 *.log
 public/
 .deploy*/
+_config.yml
+_config--bk.yml
