@@ -1,7 +1,8 @@
 ---
 title: Github-Hexo-Qiniu-Sync
-categories: Git
-date: 2017-02-09
+categories: 
+  - 技|工作技巧
+date: 2017-02-09  09:46:58
 tags: 
   - Github
   - hexo

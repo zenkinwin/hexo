@@ -1,7 +1,7 @@
 ---
 title: Github-Hexo-theme-NexT
 categories: 
-  - Git
+  - 技|工作技巧
 date: 2017-02-02
 tags: 
   - Github
