@@ -1,5 +1,5 @@
 ---
-title: History-Backup-the-terrible-work
+title: 备--the-terrible-work（2005-2008）
 date: 2017-02-15 09:46:58
 categories: 
  - 糟|乱七八糟
@@ -8,10 +8,8 @@ tags:
  - 记录
 ---
 
+注：WP停更了2年，收录中
 
  <!-- more --> 
  
-
-{% qnimg 000test1.jpg title:图片标题 alt:图片说明 'class:class1 class2' extend:?imageView2/2/w/600 %}
-
 
