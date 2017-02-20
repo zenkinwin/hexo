@@ -12,8 +12,7 @@ date: 2013-12-19 15:46:30
 > wp转入hexo，本笔记初次记录日期为`2013-12-19 15:46:30`
 > 鸡汤文，当时看到感悟挺大的，现在`（2017-2-20）`看是有点风轻云淡了。 
 
-{% qnimg rep-Four-truth.jpg title:图片标题 alt:图片说明 'class:class1 class2' extend:?imageView2/2/w/600 %}
-
+<div align="center">{% qnimg rep-Four-truth.jpg title:图片标题 alt:图片说明 'class:class1 class2' extend:?imageView2/2/w/600 %}</div>
  <!-- more --> 
  
 【1】 当人到中年的时候，身体健康，略有积蓄，已婚，配偶体贴，孩子听话，父母无大碍，有一份真正喜欢的工作，不必成名，也不必发财，不必老要看人眼色行事，做想做的那个自己，这就是成功。
