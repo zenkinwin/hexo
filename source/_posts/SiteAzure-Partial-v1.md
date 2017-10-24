@@ -11,8 +11,9 @@ date: 2017-10-24 19:08:38
 
 # SiteAzure 标签说明
 
-> Version 1.6.2.0 ，版权所有：动易软件研发中心
+> Version `1.6.2.0` ，版权所有：动易软件研发中心
 
+<!-- more --> 
 
 ### 标签名：专题位置导航.cshtml
 
@@ -153,7 +154,7 @@ date: 2017-10-24 19:08:38
 | TitleLength | 标题 | Int32 | Integer | 50 |
 | ImageWidth | 图片宽度 | Int32 | Integer | 320 |
 | ImageHeight | 图片高度 | Int32 | Integer | 240 |
-| DispatchDepartment | 部门标识符 | String | Text |   ||
+| DispatchDepartment | 部门标识符 | String | Text |   |
 
 ### 标签名：图片列表.cshtml
 
