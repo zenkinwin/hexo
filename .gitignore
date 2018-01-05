@@ -3,3 +3,8 @@
 .DS_Store
 public/
 .deploy*/
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
