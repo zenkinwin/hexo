@@ -2,6 +2,7 @@
 *.yml
 public/
 .deploy*/
+*/.DS_Store
 
 # Windows:
 Thumbs.db
